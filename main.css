@@ -1,0 +1,21 @@
+body {
+    background-color: #dae0e5;
+}
+
+#section-heading {
+    padding: 20px;
+}
+
+#section-cards {
+    margin: 0px 25px;
+}
+#section-cards .card {
+    margin: 0px 5px;
+}
+
+#section-badges {
+    margin-top: 25px;
+}
+#section-badges .btn {
+    margin: 0px 10px;
+}
